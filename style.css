@@ -76,6 +76,7 @@ h2{
 .resume{
   width: 87%;
   margin: auto;
+  margin-top: 20px;
   text-align: justify;
 }
 .resume h1{
